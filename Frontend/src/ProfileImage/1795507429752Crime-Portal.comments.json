@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6afc0227d01bfa3f46419039"
+  },
+  "user": {
+    "$oid": "6afbfe2a915a1cc44dc84e03"
+  },
+  "post": {
+    "$oid": "6afc004615901af47a04ec8d"
+  },
+  "description": "dafafsaf",
+  "date": {
+    "$date": "2026-11-17T07:28:39.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6afc0293e8f5c2dcb6b851f2"
+  },
+  "user": {
+    "$oid": "6afbfe2a915a1cc44dc84e03"
+  },
+  "post": {
+    "$oid": "6afc0288e8f5c2dcb6b851f1"
+  },
+  "description": "fdbdghdhdh",
+  "date": {
+    "$date": "2026-11-17T07:30:27.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6afc02a0e8f5c2dcb6b851f3"
+  },
+  "user": {
+    "$oid": "6afbfe2a915a1cc44dc84e03"
+  },
+  "post": {
+    "$oid": "6afc0288e8f5c2dcb6b851f1"
+  },
+  "description": "bbgdhgdhhg",
+  "date": {
+    "$date": "2026-11-17T07:30:40.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6afc03d3e8f5c2dcb6b851f5"
+  },
+  "user": {
+    "$oid": "6afbfe2a915a1cc44dc84e03"
+  },
+  "post": {
+    "$oid": "6afc03bee8f5c2dcb6b851f4"
+  },
+  "description": "HAMZA KILLER HA ",
+  "date": {
+    "$date": "2026-11-17T07:35:47.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6afc046fe8f5c2dcb6b851f7"
+  },
+  "user": {
+    "$oid": "6afbfe2a915a1cc44dc84e03"
+  },
+  "post": {
+    "$oid": "6afc045ae8f5c2dcb6b851f6"
+  },
+  "description": "hamza ek no ka chor ha ",
+  "date": {
+    "$date": "2026-11-17T07:38:23.441Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,22 @@
+﻿Admission No,Roll No,Name,Father,Gender,DOB,Class,Section,Contact,Address,Admission Date,Monthly Fee,Balance,Status
+JPS-0161,44,m.umar,farhan,male,2026-11-21,Class 2,A,03221333300,karachi,2026-11-12,2800,0,Active
+JPS-0160,JPS-0160,Hamza Khan,Tariq Mehmood,male,2014-07-10,Nursery,A,0312-1000231,"House 190, Gulshan Colony, Gujranwala",2026-04-01,2200,4400,Active
+JPS-0159,JPS-0159,Fatima Noor,Tariq Mehmood,female,2013-03-17,Playgroup,A,0325-9016357,"House 278, Peoples Colony, Gujranwala",2026-08-04,2000,0,Active
+JPS-0158,JPS-0158,Arslan Qureshi,Javed Iqbal,male,2008-08-18,Class 10,A,0347-6131095,"House 375, Satellite Town, Gujranwala",2026-03-05,5000,16000,Active
+JPS-0157,JPS-0157,Bilal Ahmed,Shahid Latif,male,2015-02-15,Class 9,B,0334-1837769,"House 10, Peoples Colony, Gujranwala",2026-09-01,4500,8000,Active
+JPS-0156,JPS-0156,Zain Abbas,Naveed Anjum,male,2012-03-12,Class 8,A,0303-4121373,"House 400, Gulshan Colony, Gujranwala",2026-11-05,4000,0,Active
+JPS-0155,JPS-0155,Fatima Noor,Imran Saeed,female,2021-03-13,Class 7,B,0311-9282406,"House 257, Gulshan Colony, Gujranwala",2026-04-03,3800,0,Active
+JPS-0154,JPS-0154,Amna Sheikh,Shahid Latif,female,2020-01-13,Class 6,B,0313-1287307,"House 60, Gulshan Colony, Gujranwala",2026-07-01,3600,0,Active
+JPS-0153,JPS-0153,Fatima Noor,Javed Iqbal,female,2018-03-18,Class 5,B,0323-8472067,"House 81, Peoples Colony, Gujranwala",2026-05-08,3400,17400,Active
+JPS-0152,JPS-0152,Haris Mehmood,Muhammad Akram,male,2021-05-15,Class 4,A,0317-8041781,"House 210, Peoples Colony, Gujranwala",2026-07-06,3200,0,Active
+JPS-0151,JPS-0151,Talha Javed,Riaz Ahmed,male,2013-01-17,Class 3,A,0300-2677005,"House 131, Satellite Town, Gujranwala",2026-05-04,3000,0,Active
+JPS-0150,JPS-0150,Muhammad Ali,Khalid Hussain,male,2008-04-12,Class 2,A,0317-2229822,"House 75, Satellite Town, Gujranwala",2026-09-01,2800,0,Active
+JPS-0149,JPS-0149,Iqra Yousaf,Tariq Mehmood,female,2021-05-17,Class 1,A,0324-2125925,"House 327, Main Bazar, Gujranwala",2026-07-01,2600,0,Active
+JPS-0148,JPS-0148,Haris Mehmood,Khalid Hussain,male,2011-03-16,Prep,B,0302-7899883,"House 353, Main Bazar, Gujranwala",2026-07-07,2400,2400,Active
+JPS-0147,JPS-0147,Ayesha Khan,Arshad Mahmood,female,2009-04-18,Nursery,A,0304-5952815,"House 278, Model Town, Gujranwala",2026-02-08,2200,3000,Active
+JPS-0146,JPS-0146,Saad Malik,Javed Iqbal,male,2014-05-10,Playgroup,A,0345-4697414,"House 123, Gulshan Colony, Gujranwala",2026-10-01,2000,0,Active
+JPS-0145,15,hisraaaa,khan,female,2026-10-29,Prep,a,00093737639,,2026-10-29,2400,-2400,Left
+JPS-0144,12,hisra,khan,female,2026-10-29,Class 6,a,00093737639,gkshakshakdhs,2026-10-29,3600,-2600,Active
+JPS-0033,JPS-0033,adeel,saleem,male,,Class 1,,,,2026-10-17,2600,-1000,Active
+JPS-0032,JPS-0032,ahsan,abid,male,,Class 9,,,,2026-10-17,4500,4500,Active
+JPS-0001,JPS-0001,Muhammad Aazmeen,Zain Ali,male,,Class 9,B,0312356789,I.I.Chundrigarh Road,2026-10-17,4000,0,Active
